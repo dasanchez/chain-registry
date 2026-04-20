@@ -2848,6 +2848,21 @@
       }
     },
     {
+      "coingecko_id": "maxbtc",
+      "name": "maxBTC",
+      "symbol": "MAXBTC",
+      "assets": [
+        {
+          "chain_name": "neutron",
+          "base_denom": "factory/neutron17sp75wng9vl2hu3sf4ky86d7smmk3wle9gkts2gmedn9x4ut3xcqa5xp34/maxbtc"
+        }
+      ],
+      "origin_asset": {
+        "chain_name": "neutron",
+        "base_denom": "factory/neutron17sp75wng9vl2hu3sf4ky86d7smmk3wle9gkts2gmedn9x4ut3xcqa5xp34/maxbtc"
+      }
+    },
+    {
       "coingecko_id": "nibiru",
       "name": "Nibiru",
       "symbol": "NIBI",
